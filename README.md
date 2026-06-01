@@ -10,6 +10,11 @@ This project is a data analysis and visualization dashboard built to explore cof
 * Kaggle (Datasets)
 * Data Analysis Techniques (Aggregation, Trend Analysis)
 
+
+## 📊 The Dashboard
+![Uploading Coffee Shop Product Analysis Dashboard.png…]()
+
+
 ## 📈 Dashboard Features
 
 ### 1. Revenue per Product
