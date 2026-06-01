@@ -12,7 +12,9 @@ This project is a data analysis and visualization dashboard built to explore cof
 
 
 ## 📊 The Dashboard
-![Uploading Coffee Shop Product Analysis Dashboard.png…]()
+<img width="1500" height="900" alt="Coffee Shop Product Analysis Dashboard" src="https://github.com/user-attachments/assets/ee07b696-9144-4122-bd00-a7609bb00a19" />
+
+
 
 
 ## 📈 Dashboard Features
